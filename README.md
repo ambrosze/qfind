@@ -1,4 +1,4 @@
 qfind
 =====
 
-Project to Semantically discover hospitals offering choice outpatient serveices
+Project to Semantically discover hospitals offering choice outpatient services
